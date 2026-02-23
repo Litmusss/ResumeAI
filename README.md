@@ -104,24 +104,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how you can contribute:
 
-- Fork the repository.
-- Create your feature branch (`git checkout -b feature/AmazingFeature`).
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-- Push to the branch (`git push origin feature/AmazingFeature`).
-- Open a pull request.
 
-## 📢 Notice
-
-As of February 2025, the user limit of 500 has been exceeded. To test the website, you can log in using the following account:
-- Email: test@mail.com
-- Password: test@@123456
-
-## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
